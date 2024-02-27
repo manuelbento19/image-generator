@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+  📸📝<br>Image Generator
+</h1>
+<p>Application that seamlessly integrates with the OpenAI DALL-E API and generates captivating images based on textual requests.
+</p>
 
-## Getting Started
+![Resultado final do projeto](./public/capa.png)
 
-First, run the development server:
+
+## 💼 Tecnologias utilizadas
+
+Para o desenvolvimento deste site utilizei as seguintes tecnologias:
+- Next.js
+- React.js
+- OpenAI
+- Tailwind CSS
+
+## 🚀 Getting started
+
+### 1. Install
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+or
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+pnpm add
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+or
 
-## Learn More
+```bash
+yarn add
+```
+### 2. Run
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run start
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+or
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```bash
+pnpm start
+```
 
-## Deploy on Vercel
+or
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+yarn start
+```
+---
+<h2>👨‍🚀 Autor</h2>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/manuelbento19">
+        <img src="https://avatars.githubusercontent.com/u/65732773" width="150px;" alt="Foto do Manuel Bento"/><br>
+        <sub>
+          <b>Manuel Bento</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
